@@ -1,1 +1,26 @@
-# 1st-project
+# Movie Ranking Project
+
+## Overview
+
+A simple HTML page that displays my top 3 favorite movies.
+This project was created to practice basic HTML structure and semantic tags.
+
+## Features
+
+- Displays a movie ranking list
+- Uses headings, paragraphs, and horizontal rules
+- Simple and clean static layout
+
+## Technologies Used
+
+- HTML5
+
+## What I Learned
+
+- Basic HTML document structure
+- Proper usage of heading tags (h1–h3)
+- Organizing content in a readable layout
+
+## Status
+
+This is a small practice project and may be improved in the future.
