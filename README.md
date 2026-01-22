@@ -5,6 +5,8 @@
 A simple HTML page that displays my top 3 favorite movies.
 This project was created to practice basic HTML structure and semantic tags.
 
+![image alt](https://github.com/Ferb-10/Movie-ranking-1/blob/9f803fa8129e98a2de388ac0cb9720c404bc525e/Movie%20project.png)
+
 ## Features
 
 - Displays a movie ranking list
