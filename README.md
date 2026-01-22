@@ -23,6 +23,23 @@ This project was created to practice basic HTML structure and semantic tags.
 - Proper usage of heading tags (h1–h3)
 - Organizing content in a readable layout
 
-## Status
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 概要
+私のお気に入り映画トップ3を表示する、シンプルなHTMLページです。
+基本的なHTML構造とタグの練習を目的として作成しました。
 
-This is a small practice project and may be improved in the future.
+## 特徴　機能
+- 映画ランキング（トップ3）の表示
+- 見出しタグ、段落、水平線（hr）の使用
+- シンプルで見やすい静的レイアウト
+
+## 使用技術
+- HTML5
+
+## 学んだこと
+- HTMLの基本的なドキュメント構造
+- 見出しタグ（h1〜h3）の正しい使い分け
+- コンテンツを読みやすく整理する方法
+
+
+
